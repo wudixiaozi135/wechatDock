@@ -1,0 +1,11 @@
+E:\workspace\csharp\RevokeMsgPatcher\RevokeMsgPatcher.MultiInstance\bin\Debug\RevokeMsgPatcher.MultiInstance.exe.config
+E:\workspace\csharp\RevokeMsgPatcher\RevokeMsgPatcher.MultiInstance\bin\Debug\RevokeMsgPatcher.MultiInstance.exe
+E:\workspace\csharp\RevokeMsgPatcher\RevokeMsgPatcher.MultiInstance\bin\Debug\RevokeMsgPatcher.MultiInstance.pdb
+E:\workspace\csharp\RevokeMsgPatcher\RevokeMsgPatcher.MultiInstance\obj\Debug\RevokeMsgPatcher.MultiInstance.csproj.AssemblyReference.cache
+E:\workspace\csharp\RevokeMsgPatcher\RevokeMsgPatcher.MultiInstance\obj\Debug\RevokeMsgPatcher.MultiInstance.csproj.SuggestedBindingRedirects.cache
+E:\workspace\csharp\RevokeMsgPatcher\RevokeMsgPatcher.MultiInstance\obj\Debug\RevokeMsgPatcher.MultiInstance.FormMultiInstance.resources
+E:\workspace\csharp\RevokeMsgPatcher\RevokeMsgPatcher.MultiInstance\obj\Debug\RevokeMsgPatcher.MultiInstance.Properties.Resources.resources
+E:\workspace\csharp\RevokeMsgPatcher\RevokeMsgPatcher.MultiInstance\obj\Debug\RevokeMsgPatcher.MultiInstance.csproj.GenerateResource.cache
+E:\workspace\csharp\RevokeMsgPatcher\RevokeMsgPatcher.MultiInstance\obj\Debug\RevokeMsgPatcher.MultiInstance.csproj.CoreCompileInputs.cache
+E:\workspace\csharp\RevokeMsgPatcher\RevokeMsgPatcher.MultiInstance\obj\Debug\RevokeMsgPatcher.MultiInstance.exe
+E:\workspace\csharp\RevokeMsgPatcher\RevokeMsgPatcher.MultiInstance\obj\Debug\RevokeMsgPatcher.MultiInstance.pdb
